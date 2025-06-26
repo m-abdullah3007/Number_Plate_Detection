@@ -160,7 +160,6 @@ After restoring plate size to original image scale, EasyOCR is used for final ch
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**.  
 You are free to use, modify, and distribute this project with proper attribution.
 
 ---
